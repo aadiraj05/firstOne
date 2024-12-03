@@ -1,0 +1,20 @@
+/*.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: aquamarine;
+    text-align: center;
+
+}*/
+
+/* for practice Question - 16*/
+
+.myClass{
+   color: red
+    
+}
+
+.newClass{
+    background-color: green;
+}
